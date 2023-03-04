@@ -1,0 +1,10 @@
+*
+!*/
+!*.*
+src-1
+stb
+storage
+*.txt
+*.mpg
+*.jpg
+.vscode/
